@@ -1,0 +1,11 @@
+{
+        "path": "openshift/upi/libvirt/openshift-upi-libvirt-workflow.yaml",
+        "owners": {
+                "approvers": [
+                        "multiarch-approvers"
+                ],
+                "reviewers": [
+                        "multiarch-reviewers"
+                ]
+        }
+}
